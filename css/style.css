@@ -141,3 +141,20 @@ body {
   height: 50px;
   padding-top: 20px;
 }
+.contact-section {
+  background-color: moccasin;
+  width: 100%;
+  text-align: center;
+  margin-top: 50px;
+}
+.contact-inpt {
+  padding: 30px;
+}
+.footer-sec {
+  padding: 2px;
+}
+.footer-link {
+  text-align: center;
+  margin: 10px;
+  color: darkgray;
+}
