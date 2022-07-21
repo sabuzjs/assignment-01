@@ -60,6 +60,9 @@ body {
   margin-right: 20px;
   width: 150px;
 }
+.active {
+  background-color: #1a7a3d;
+}
 .taka {
   font-size: 28px;
   padding: 10px;
@@ -104,4 +107,37 @@ body {
   width: 450px;
   height: 300px;
   padding: 50px;
+}
+.donate-cat {
+  display: flex;
+  padding: 50px;
+}
+.cat-one {
+  width: 33.33%;
+  padding: 20px;
+  background-color: cadetblue;
+  margin-right: 10px;
+}
+.cat-one img {
+  height: 50px;
+  padding-top: 20px;
+}
+.cat-two {
+  width: 33.33%;
+  padding: 10px;
+  background-color: antiquewhite;
+  margin-right: 10px;
+}
+.cat-two img {
+  height: 50px;
+  padding-top: 20px;
+}
+.cat-three {
+  width: 33.33%;
+  padding: 10px;
+  background-color: darkgrey;
+}
+.cat-three img {
+  height: 50px;
+  padding-top: 20px;
 }
